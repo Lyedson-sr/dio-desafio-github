@@ -1,1 +1,29 @@
 Introdução curso de Linux: 
+
+- O que é um sistema operacional: 
+
+O sistema operacional é um software, ou conjunto de softwares, que tem a função de administrar e gerenciar os recursos de um sistema. Esses recursos são: componentes de hardware, sistemas de arquivos, programas de terceiros, etc. 
+
+- Principal funçaõ do sistema operacional: 
+
+Estabelecer um interface entre o hardware e o usuario. 
+
+Kernel ( nucleo do sistema operacional) 
+
+resumindo o Kernel é a ponte entre usuario e o hardware. O kernel compõe a parte central do So e responde por tarefas cruciais, como: 
+
+1) Estabelcer a camada de abstração de baixo nivel (linguagem de máquina) com o hardware; 
+
+2)Gerenciar recursos como processador, RAM, sistemas de arquivos e dispositivos de entrada e saida. 
+
+3)Gerenciar processos(execução)de programas;
+
+4)Gerenciar o uso de dispositivos, memoria do sistema e chamadas de programas, definindo quais tem prioridade.   
+
+O que é o linux? 
+
+
+Modelo Cliente-Servidor : é uma estrutura de aplicação que distribui as tarefas e cargas de trbalho entre os fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos servições, designdados como clientes. 
+
+
+O que é o WSL no Windows? 
